@@ -1,4 +1,4 @@
-# ProyectoFinal_Proc.deImagenesYVision
+# DetecciónTapabocas_Proc.deImagenesYVision
 
 Deteccion de rostros con tapabocas
 
